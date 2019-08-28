@@ -1,4 +1,4 @@
-class lizhi
+public  class lizhi
 {	public static void main (String args[])
     { double sum=0,a=1;
 	  int i=1;
